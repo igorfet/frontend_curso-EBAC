@@ -90,7 +90,7 @@ section h2{
 } 
 
 #sports{
-    background-color: rgb(52, 52, 66);
+    background-color: black;
 }
 
 #economy{
@@ -98,11 +98,11 @@ section h2{
 }
 
 #entertainment{
-    background-color: rgb(52, 52, 66);
+    background-color: gray;
 } 
 
 #technology {
-    background-color: rgb(52, 52, 66);
+    background-color: darkgray;
 }
 
 
